@@ -1,1 +1,4 @@
-welcome
+<?php
+ echo "fahim";
+
+?>
